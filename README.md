@@ -20,9 +20,9 @@
 ## 🙋‍♂️ About Me
 
 ```yaml
-name        : Sathish
+name        : Sathish Kumar Samaiyan
 username    : Sathish11-Design
-location    : India 🇮🇳
+location    : Ireland IRL
 focus       : DevOps | Cloud Engineering | Infrastructure Automation
 currently   : Building cloud-native solutions and mastering DevOps pipelines
 learning    : Kubernetes • Terraform • GitOps • SRE Practices

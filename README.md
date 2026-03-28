@@ -1,20 +1,19 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sathish%20Kumar%20Samaiyan&fontSize=42&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20GCP%20%7C%20Azure%20%7C%20Kubernetes&descAlignY=60&descColor=a8d8ea" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sathish%20%F0%9F%91%8B&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Automation%20Enthusiast&descAlignY=60&descAlign=50" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=☁️+Cloud+%26+DevOps+Engineer;🚀+Kubernetes+%7C+Terraform+%7C+CI%2FCD+Specialist;🔐+DevSecOps+%7C+Security-First+Pipelines;📊+Monitoring+%7C+Observability+%7C+SRE;🌍+Based+in+Dublin%2C+Ireland" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+%26+Cloud+Engineer+%F0%9F%9A%80;AWS+%7C+Jenkins+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code+Enthusiast+%F0%9F%9B%A0%EF%B8%8F;CI%2FCD+Pipeline+Architect+%F0%9F%94%A7;Always+Learning%2C+Always+Building+%F0%9F%92%AA" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Profile Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathishkumarsamaiyan)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sathish11-Design)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathishkumarsvskss@gmail.com)
-[![Location](https://img.shields.io/badge/Dublin%2C%20Ireland-009B77?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+<!-- Profile Views & Followers Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=Sathish11-Design&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/Sathish11-Design?label=Followers&style=social)](https://github.com/Sathish11-Design)
+[![GitHub stars](https://img.shields.io/github/stars/Sathish11-Design?label=Stars&style=social)](https://github.com/Sathish11-Design)
 
 </div>
 
